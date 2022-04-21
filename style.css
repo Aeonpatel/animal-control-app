@@ -1,7 +1,12 @@
 body{
-background-color:orange;
+background:orange;
+color:yellow;
+text-shadow:grey;
+text-align:center;
 }
 
 #img{
 background-color:yellow;
+color:orange;
+text-align:center
 }
